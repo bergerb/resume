@@ -1,0 +1,10 @@
+title: Brent Berger
+author: Brent Berger
+tagline: Senior Full-Stack .NET Engineer
+description: Brent Berger's resume site
+url: "https://resume.bergerb.net"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md

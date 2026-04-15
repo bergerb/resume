@@ -1,0 +1,185 @@
+header:
+  eyebrow: Resume
+  name: Brent Berger
+  title: Senior Full-Stack .NET Engineer
+  summary: |
+    Hands-on engineer focused on secure, accessible, and scalable software across government,
+    healthcare, and education. Strong in modernization, full-stack delivery, CI/CD, identity,
+    and applying AI to improve execution.
+  download: assets/resume.pdf
+  actions:
+    - label: Website
+      href: https://www.bergerb.net/
+      style: primary
+    - label: GitHub
+      href: https://github.com/bergerb
+      style: secondary
+    - label: LinkedIn
+      href: https://www.linkedin.com/in/brent-berger-bb19719/
+      style: ghost
+
+contact:
+  - label: Phone
+    href: tel:17177590255
+    text: (717) 759-0255
+  - label: Website
+    href: https://www.bergerb.net/
+    text: bergerb.net
+  - label: GitHub
+    href: https://github.com/bergerb
+    text: github.com/bergerb
+  - label: LinkedIn
+    href: https://www.linkedin.com/in/brent-berger-bb19719/
+    text: linkedin.com/in/brent-berger-bb19719
+
+core_strengths:
+  - Full-Stack .NET
+  - Legacy Modernization
+  - Authentication
+  - Accessibility
+  - Security Hardening
+  - CI/CD
+  - Cloud Delivery
+  - AI-Assisted Delivery
+
+summary: |
+  Senior Full-Stack .NET Engineer with 15+ years of experience building secure, accessible,
+  and scalable software for mission-critical environments. Deep experience across C#, .NET,
+  ASP.NET MVC, Web API, Blazor, React, Angular, SQL, and modern delivery practices, with a
+  strong track record in modernization, identity, CI/CD, and engineering quality.
+
+education:
+  - degree: Bachelor of Science - Information Sciences & Technology (Design & Development)
+    university: Pennsylvania State University
+    honors: Keystone Honor Society
+  - degree: Associate of Applied Science - Computer Information Systems, System Administration
+    university: Harrisburg Area Community College
+    honors: Phi Theta Kappa Honor Society
+
+skills:
+  - category: Languages & Frameworks
+    tools:
+      - name: C#
+      - name: .NET
+      - name: ASP.NET Core
+      - name: ASP.NET MVC
+      - name: Web API
+      - name: Blazor
+      - name: Entity Framework
+      - name: NHibernate
+  - category: Front End
+    tools:
+      - name: React
+      - name: TypeScript
+      - name: Redux
+      - name: React Query
+      - name: Angular
+      - name: RxJS
+      - name: SCSS
+  - category: Cloud & Delivery
+    tools:
+      - name: Azure
+      - name: Azure DevOps
+      - name: GitHub
+      - name: GitHub Actions
+      - name: CI/CD
+      - name: Docker
+      - name: TFVC-to-Git migration
+      - name: ADO integration
+  - category: Security & Identity
+    tools:
+      - name: Entra ID
+      - name: OAuth
+      - name: SSO
+      - name: Idology
+      - name: npm audit
+      - name: NuGet
+      - name: Aikido
+  - category: Quality & Process
+    tools:
+      - name: TDD
+      - name: xUnit
+      - name: MSTest
+      - name: NUnit
+      - name: Scrum
+      - name: Kanban
+      - name: XP
+      - name: agent-driven development
+      - name: AI-assisted project management
+  - category: Data & Accessibility
+    tools:
+      - name: SQL Server
+      - name: Oracle
+      - name: PostgreSQL
+      - name: WCAG 2.1 AA
+
+experiences:
+  - role: Software Engineer V
+    company: Maryland State Retirement Agency
+    location: Baltimore, MD (Hybrid)
+    time: Jul 2024 - Present
+    highlights:
+      - Led security hardening across 70+ packages using npm audit, NuGet, and Aikido, reducing critical vulnerabilities by 60% in 2025.
+      - Drove Azure DevOps to Azure cloud modernization work that improved build readiness and supported more reliable software releases.
+      - Migrated core repositories from TFVC to GitHub, establishing pull request reviews, CI/CD automation, and stronger code ownership practices.
+      - Modernized authentication with Blazor and Entra ID SSO/OAuth flows and integrated Idology identity proofing into an ASP.NET MVC application.
+      - Completed a WCAG 2.1 AA initiative to modernize the public-facing member portal for retirees and beneficiaries.
+      - Applied generative AI, agent-driven development, skills development with AI, and AI-assisted ADO/project management to accelerate delivery.
+    technologies:
+      - C#
+      - .NET
+      - Blazor
+      - ASP.NET MVC
+      - Entra ID
+      - GitHub
+      - Azure DevOps
+      - WCAG 2.1 AA
+
+  - role: Software Engineer Team Lead / Manager
+    company: Trend Health Partners
+    location: Remote
+    time: Mar 2021 - Jul 2024
+    highlights:
+      - Delivered a payment accuracy platform using C#, .NET 8, Web API, NHibernate, and Hangfire.
+      - Stayed hands-on in architecture, implementation, code review, and delivery while leading two development teams totaling 7 engineers.
+      - Partnered with product and business stakeholders to deliver roadmap work on schedule in a distributed environment.
+      - Championed Test-Driven Development, reaching 80% unit test coverage and 70% integration test coverage while lowering production incidents.
+      - Improved engineering consistency through sprint planning, retrospectives, and technical growth initiatives.
+    technologies:
+      - .NET 8
+      - Web API
+      - NHibernate
+      - Hangfire
+      - TDD
+      - Remote leadership
+
+  - role: Software Engineer
+    company: Baltimore County Public Schools
+    location: Towson, MD
+    time: May 2019 - Feb 2021
+    highlights:
+      - Built the Teacher Evaluation System, BCPS One Helpdesk integration, and elementary grading modules using C#, .NET, and Angular.
+      - Implemented OneRoster integrations based on IMS Global standards to enable reliable exchange between the SIS and third-party tools.
+      - Authored and implemented accessibility audit documentation that brought applications into WCAG 2.1 AA compliance.
+    technologies:
+      - C#
+      - .NET
+      - Angular
+      - OneRoster
+      - Accessibility
+
+  - role: Software Development Engineer
+    company: Carroll County Public Schools
+    location: Westminster, MD
+    time: Jun 2008 - May 2019
+    highlights:
+      - Led modernization of legacy VB/ASP applications into C# WebForms, MVC, and Angular solutions.
+      - Drove Git adoption and trained developers on branching strategies and pull request workflows.
+      - Designed a custom SharePoint CMS integration that enabled content teams to publish school content without developer involvement.
+    technologies:
+      - Legacy modernization
+      - C#
+      - WebForms
+      - MVC
+      - Angular
+      - SharePoint
