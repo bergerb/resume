@@ -66,6 +66,7 @@ skills:
       - name: Web API
       - name: Blazor
       - name: Entity Framework
+      - name: EF Core
       - name: NHibernate
   - category: Front End
     tools:
@@ -122,12 +123,15 @@ experiences:
       - Led security hardening across 70+ packages using npm audit, NuGet, and Aikido, reducing critical vulnerabilities by 60% in 2025.
       - Drove Azure DevOps to Azure cloud modernization work that improved build readiness and supported more reliable software releases.
       - Migrated core repositories from TFVC to GitHub, establishing pull request reviews, CI/CD automation, and stronger code ownership practices.
+      - Modernized core pension platform components using C#, .NET, EF Core, Angular, and Blazor while improving maintainability and delivery workflows.
       - Modernized authentication with Blazor and Entra ID SSO/OAuth flows and integrated Idology identity proofing into an ASP.NET MVC application.
       - Completed a WCAG 2.1 AA initiative to modernize the public-facing member portal for retirees and beneficiaries.
       - Applied generative AI, agent-driven development, skills development with AI, and AI-assisted ADO/project management to accelerate delivery.
     technologies:
       - C#
       - .NET
+      - EF Core
+      - Angular
       - Blazor
       - ASP.NET MVC
       - Entra ID

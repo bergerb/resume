@@ -21,7 +21,7 @@ Senior Full-Stack .NET Engineer with 15+ years of experience building secure, ac
 
 ## Technical Skills
 
-**Languages & Frameworks:** C#, .NET, ASP.NET Core, ASP.NET MVC, Web API, Blazor, Entity Framework, NHibernate
+**Languages & Frameworks:** C#, .NET, ASP.NET Core, ASP.NET MVC, Web API, Blazor, Entity Framework, EF Core, NHibernate
 **Front End:** React, TypeScript, Redux, React Query, Angular, RxJS, SCSS
 **Cloud & Delivery:** Azure, Azure DevOps, GitHub, GitHub Actions, CI/CD, Docker, TFVC-to-Git migration, ADO integration
 **Security & Identity:** Entra ID, OAuth, SSO, Idology, npm audit, NuGet, Aikido
@@ -36,11 +36,12 @@ Jul 2024 - Present | Baltimore, MD (Hybrid)
 - Led security hardening across 70+ packages using npm audit, NuGet, and Aikido, reducing critical vulnerabilities by 60% in 2025.
 - Drove Azure DevOps to Azure cloud modernization work that improved build readiness and supported more reliable software releases.
 - Migrated core repositories from TFVC to GitHub, establishing pull request reviews, CI/CD automation, and stronger code ownership practices.
+- Modernized core pension platform components using C#, .NET, EF Core, Angular, and Blazor while improving maintainability and delivery workflows.
 - Modernized authentication with Blazor and Entra ID SSO/OAuth flows and integrated Idology identity proofing into an ASP.NET MVC application.
 - Completed a WCAG 2.1 AA initiative to modernize the public-facing member portal for retirees and beneficiaries.
 - Applied generative AI, agent-driven development, skills development with AI, and AI-assisted ADO/project management to accelerate delivery.
 
-**Technologies:** C#, .NET, Blazor, ASP.NET MVC, Entra ID, GitHub, Azure DevOps, WCAG 2.1 AA
+**Technologies:** C#, .NET, EF Core, Angular, Blazor, ASP.NET MVC, Entra ID, GitHub, Azure DevOps, WCAG 2.1 AA
 
 ### Software Engineer Team Lead / Manager | Trend Health Partners
 Mar 2021 - Jul 2024 | Remote
