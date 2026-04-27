@@ -2,9 +2,13 @@ title: Brent Berger
 author: Brent Berger
 tagline: Senior Full-Stack .NET Engineer
 description: Brent Berger's resume site
+avatar_url: "https://2.gravatar.com/avatar/b9a21f340f4d0b1a72356d69fda65571?s=160"
 url: "https://resume.bergerb.net"
 baseurl: ""
 markdown: kramdown
 permalink: pretty
 exclude:
   - README.md
+  - test
+  - _site_test
+  - _test_config_override.yml

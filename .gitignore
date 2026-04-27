@@ -1,5 +1,7 @@
 _site/
+_site_test/
 .jekyll-cache/
 .jekyll-metadata
+_test_config_override.yml
 vendor/bundle/
 .worktrees/
