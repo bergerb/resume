@@ -16,7 +16,7 @@ bundle exec rake build
 This generates:
 
 - `_site\` - the Jekyll site
-- `resume-compliance.md` - a plain Markdown resume generated from `_data\data.yml`
+- `resume-compliance.md` - a plain Markdown resume generated from `_data\backpack.yml`
 
 If you only want the Markdown artifact:
 
@@ -57,13 +57,9 @@ If this is a project site and you are still using GitHub Pages with a custom dom
 ## Files
 
 - `_config.yml` - Jekyll site configuration
-- `_data/data.yml` - resume content source of truth
-- `_layouts/default.html` - page layout
-- `_includes/` - reusable resume sections
+- `_data/backpack.yml` - resume content source of truth consumed by the Backpack remote theme
 - `scripts/build_resume_md.rb` - generator for the Markdown upload/compliance resume
 - `resume-compliance.md` - generated Markdown resume artifact
-- `assets/css/main.css` - custom responsive and print styles
-- `assets/js/app.js` - print button behavior
 - `assets/resume.pdf` - downloadable PDF resume
 - `.github/workflows/deploy-pages.yml` - GitHub Pages deployment workflow
 - `CNAME` - custom domain for GitHub Pages

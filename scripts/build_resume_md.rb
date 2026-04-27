@@ -1,7 +1,7 @@
 require "yaml"
 
 ROOT = File.expand_path("..", __dir__)
-DATA_PATH = File.join(ROOT, "_data", "data.yml")
+DATA_PATH = File.join(ROOT, "_data", "backpack.yml")
 OUTPUT_PATH = File.join(ROOT, "resume-compliance.md")
 
 data = YAML.safe_load(File.read(DATA_PATH), permitted_classes: [], aliases: false)

@@ -51,6 +51,11 @@ YAML
 html = File.read(File.join(output_directory, "index.html"))
 
 assert(
+  html.include?('data-backpack-mode="resume"'),
+  "Expected the home page to render through the backpack resume layout."
+)
+
+assert(
   html.match?(%r{<div class="hero__media">\s*<img class="hero__avatar" src="https://example.com/avatar\.png" alt="Brent Berger portrait">\s*</div>}m),
   "Expected the home page to render the configured avatar in the hero."
 )
