@@ -81,6 +81,7 @@ skills:
     tools:
       - name: Azure
       - name: Azure DevOps
+      - name: Application Insights
       - name: GitHub
       - name: GitHub Actions
       - name: CI/CD
@@ -122,6 +123,7 @@ experiences:
     highlights:
       - Led security hardening across 70+ packages using npm audit, NuGet, and Aikido, reducing critical vulnerabilities by 60% in 2025.
       - Drove Azure DevOps to Azure cloud modernization work that improved build readiness and supported more reliable software releases.
+      - Improved platform observability and troubleshooting workflows using Azure Application Insights.
       - Migrated core repositories from TFVC to GitHub, establishing pull request reviews, CI/CD automation, and stronger code ownership practices.
       - Modernized core pension platform components using C#, .NET, EF Core, Angular, and Blazor while improving maintainability and delivery workflows.
       - Modernized authentication with Blazor and Entra ID SSO/OAuth flows and integrated Idology identity proofing into an ASP.NET MVC application.
@@ -137,6 +139,7 @@ experiences:
       - Entra ID
       - GitHub
       - Azure DevOps
+      - Application Insights
       - WCAG 2.1 AA
 
   - role: Software Engineer Team Lead / Manager
