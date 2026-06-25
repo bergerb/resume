@@ -19,9 +19,6 @@ header:
       style: ghost
 
 contact:
-  - label: Phone
-    href: tel:17177590255
-    text: (717) 759-0255
   - label: Website
     href: https://www.bergerb.net/
     text: bergerb.net
@@ -118,7 +115,7 @@ skills:
 experiences:
   - role: Software Engineer V
     company: Maryland State Retirement Agency
-    location: Baltimore, MD (Hybrid)
+    location: Maryland (Hybrid)
     time: Jul 2024 - Present
     highlights:
       - Led security hardening across 70+ packages using npm audit, NuGet, and Aikido, reducing critical vulnerabilities by 60% in 2025.
@@ -162,7 +159,7 @@ experiences:
 
   - role: Software Engineer
     company: Baltimore County Public Schools
-    location: Towson, MD
+    location: Maryland
     time: May 2019 - Feb 2021
     highlights:
       - Built the Teacher Evaluation System, BCPS One Helpdesk integration, and elementary grading modules using C#, .NET, and Angular.
@@ -177,7 +174,7 @@ experiences:
 
   - role: Software Development Engineer
     company: Carroll County Public Schools
-    location: Westminster, MD
+    location: Maryland
     time: Jun 2008 - May 2019
     highlights:
       - Led modernization of legacy VB/ASP applications into C# WebForms, MVC, and Angular solutions.

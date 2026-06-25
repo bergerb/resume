@@ -2,7 +2,7 @@
 
 Senior Full-Stack .NET Engineer
 
-(717) 759-0255 | bergerb.net | github.com/bergerb | linkedin.com/in/brent-berger-bb19719
+bergerb.net | github.com/bergerb | linkedin.com/in/brent-berger-bb19719
 
 ## Professional Summary
 
@@ -31,7 +31,7 @@ Senior Full-Stack .NET Engineer with 15+ years of experience building secure, ac
 ## Professional Experience
 
 ### Software Engineer V | Maryland State Retirement Agency
-Jul 2024 - Present | Baltimore, MD (Hybrid)
+Jul 2024 - Present | Maryland (Hybrid)
 
 - Led security hardening across 70+ packages using npm audit, NuGet, and Aikido, reducing critical vulnerabilities by 60% in 2025.
 - Drove Azure DevOps to Azure cloud modernization work that improved build readiness and supported more reliable software releases.
@@ -56,7 +56,7 @@ Mar 2021 - Jul 2024 | Remote
 **Technologies:** .NET 8, Web API, NHibernate, Hangfire, TDD, Remote leadership
 
 ### Software Engineer | Baltimore County Public Schools
-May 2019 - Feb 2021 | Towson, MD
+May 2019 - Feb 2021 | Maryland
 
 - Built the Teacher Evaluation System, BCPS One Helpdesk integration, and elementary grading modules using C#, .NET, and Angular.
 - Implemented OneRoster integrations based on IMS Global standards to enable reliable exchange between the SIS and third-party tools.
@@ -65,7 +65,7 @@ May 2019 - Feb 2021 | Towson, MD
 **Technologies:** C#, .NET, Angular, OneRoster, Accessibility
 
 ### Software Development Engineer | Carroll County Public Schools
-Jun 2008 - May 2019 | Westminster, MD
+Jun 2008 - May 2019 | Maryland
 
 - Led modernization of legacy VB/ASP applications into C# WebForms, MVC, and Angular solutions.
 - Drove Git adoption and trained developers on branching strategies and pull request workflows.

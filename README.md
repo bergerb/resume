@@ -10,19 +10,22 @@ This repo is set up as a Jekyll site for GitHub Pages.
 
 ```powershell
 bundle install
+bundle exec rake markdown_resume
+bundle exec jekyll serve
+```
+
+Then open `http://localhost:4000`.
+
+If you only want a one-time build:
+
+```powershell
 bundle exec rake build
 ```
 
-This generates:
+This build generates:
 
 - `_site\` - the Jekyll site
 - `resume-compliance.md` - a plain Markdown resume generated from `_data\backpack.yml`
-
-If you only want the Markdown artifact:
-
-```powershell
-bundle exec rake markdown_resume
-```
 
 ### Build with Docker
 
